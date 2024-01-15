@@ -5,8 +5,8 @@ Es especialmente útil para procesar podcasts, conferencias y otros archivos de 
 
 ## Descripción
 
-Whisper es una herramienta avanzada de OpenAI que permite la conversión eficiente y precisa de audio a texto.
-Este cuaderno de Colab facilita desde un video de YouTube, la transcripción de contenido de audio como podcasts o conferencias, permitiendo un acceso más fácil a la información y mejorando la capacidad de tomar notas y buscar temas específicos.
+Whisper es una herramienta de OpenAI que permite la conversión eficiente y precisa de audio a texto.
+Este cuaderno de Colab facilita, desde un video de YouTube, la transcripción de contenido de audio como podcasts o conferencias, permitiendo un acceso más fácil a la información y mejorando la capacidad de tomar notas y buscar temas específicos.
 
 ## Uso del Cuaderno de Colab
 
